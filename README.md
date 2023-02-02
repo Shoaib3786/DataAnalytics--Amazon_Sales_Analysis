@@ -1,5 +1,5 @@
-# Data-Analytics-Project-04
-## Amazon Sales Data Analysis
+
+## Dashboard Preview:
 
 <img width="578" alt="Dashboard_img" src="https://user-images.githubusercontent.com/104248739/192996400-d2b95edf-c3fd-4d73-8ec9-4684a417e0c6.png">
 
